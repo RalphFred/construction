@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Footer() {
   return (
     <div className="wrapper mt-32 pb-8">
-      <div className="flex justify-between">
+      <div className="flex flex-wrap gap-12 justify-between">
         <div>
           <h4 className="text-2xl font-semibold text-blue-1 mb-8">
             CONSTRUCTION
@@ -30,7 +30,7 @@ export default function Footer() {
           </div>
         </div>
 
-        <div className="flex justify-between gap-16">
+        <div className="flex flex-wrap justify-between gap-16">
           <div>
             <h5 className="font-semibold text-lg mb-8">Quick Links</h5>
             <p className="text-gray-600 mb-1">Home</p>
