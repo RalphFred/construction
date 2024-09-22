@@ -13,8 +13,7 @@ export default function Hero() {
           <span className="text-blue-1">Quality.</span>
         </h1>
         <p className="text-gray-600 mb-8">
-          Blessing welcomed ladyship she met humoured sir breeding her. Six
-          curiosity day assurance bed necessary.
+        Buildora welcomes innovation as it embraced reliable craftsmanship. Six pillars of strength and excellence ensured lasting quality structures.
         </p>
         <div className="flex gap-8 mb-12">
           <button className="w-[180px] py-3 text-white bg-blue-1 rounded-tl-[36px] rounded-tr-sm rounded-br-[36px] rounded-bl-sm">

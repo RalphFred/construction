@@ -24,8 +24,10 @@ export default function Services() {
                   className="w-[100px] h-[100px]"
                 />
               </div>
-
-              <p>{service.text}</p>
+              <div>
+                <p className="font-semibold text-lg">{service.title}</p>
+                <p>{service.text}</p>
+              </div>
             </div>
           ))}
         </div>

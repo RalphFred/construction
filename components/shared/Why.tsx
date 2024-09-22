@@ -8,8 +8,7 @@ export default function Why() {
       </div>
       <div className="lg:w-1/2">
         <p className="text-lg text-slate-600 mb-8 lg:mb-4">
-          Blessing welcomed ladyship she met humoured sir breeding her. Six
-          curiosity day assurance bed necessary.
+        Buildora welcomes innovation and integrity, ensuring every project is completed with unmatched expertise.
         </p>
         <button className="w-[180px] py-3 text-white bg-blue-1 rounded-tl-[36px] rounded-tr-sm rounded-br-[36px] rounded-bl-sm">
           Explore

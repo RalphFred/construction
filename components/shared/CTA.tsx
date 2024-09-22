@@ -5,8 +5,7 @@ export default function CTA() {
         Subscribe To Our Newsletter
       </h2>
       <p className="max-w-[500px] mb-8">
-        Age sold some full like rich new. Amounted repeated as believed in
-        confined juvenile.
+      Stay updated with the latest construction trends, tips, and exclusive offers by subscribing to our newsletter!
       </p>
 
       <button className="w-[180px] py-3 text-white bg-blue-1 rounded-tl-[36px] rounded-tr-sm rounded-br-[36px] rounded-bl-sm">

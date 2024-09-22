@@ -8,8 +8,7 @@ export default function Contact() {
       <div className="wrapper flex-center flex-col text-center">
         <h2 className="text-4xl lg:text-5xl font-semibold mb-8">Contact Us</h2>
         <p className="max-w-[600px] mb-16">
-          Blessing welcomed ladyship she met humoured sir breeding her. Six
-          curiosity day assurance bed necessary.
+        Get in touch with Buildora for inquiries, consultations, or project details—we’re here to assist you!
         </p>
       </div>
 

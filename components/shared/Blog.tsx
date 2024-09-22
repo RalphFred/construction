@@ -6,8 +6,7 @@ export default function Blog() {
     <div id="blog" className="wrapper mt-32 flex-center flex-col text-center">
       <h2 className="text-4xl lg:text-5xl font-semibold mb-8">Latest Blogs</h2>
       <p className="max-w-[600px] mb-16">
-        Blessing welcomed ladyship she met humoured sir breeding her. Six
-        curiosity day assurance bed necessary.
+      Insights and trends on construction and design to inspire and inform homeowners and industry professionals alike.
       </p>
 
       <div className="flex flex-wrap justify-center gap-16 w-full overflow-auto blog">

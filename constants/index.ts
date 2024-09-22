@@ -61,15 +61,18 @@ export const BrandLogos = [
 export const Servicess = [
   {
     src: "/images/01.svg",
-    text: "And residence for met the estimable disposing. Mean if he they been no hold mr. Is at much do made took held help."
+    title: "Unmatched Expertise",
+    text: "We possess the expertise to uphold the highest construction standards, meticulously managing every detail for excellence in every build."
   },
   {
     src: "/images/02.svg",
-    text: "Up maids me an ample stood given. Certainty say suffering his him collected intention promotion."
+    title: "Quality You Can Trust",
+    text: "Our unwavering commitment to quality ensures that Buildora delivers durable structures with top-notch materials and craftsmanship."
   },
   {
     src: "/images/03.svg",
-    text: "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom."
+    title: "Tailored Solutions",
+    text: "Recognizing the uniqueness of each project, Buildora collaborates with you to provide tailored construction solutions that fulfill your specific vision."
   },
 ];
 
