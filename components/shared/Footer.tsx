@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="flex flex-wrap gap-12 justify-between">
         <div>
           <h4 className="text-2xl font-semibold text-blue-1 mb-8">
-            CONSTRUCTION
+            BUILDORA
           </h4>
 
           <p className="w-[300px] mb-8 text-gray-600">

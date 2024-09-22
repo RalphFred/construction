@@ -14,7 +14,7 @@ export default function Navbar() {
   return (
     <nav className="w-full absolute top-0 left-0">
       <div className="wrapper flex-between py-6 w-full">
-        <h2 className="text-2xl text-blue-1 font-semibold">CONSTRUCTION</h2>
+        <h2 className="text-2xl text-blue-1 font-semibold">BUILDORA</h2>
         <div className="hidden lg:flex">
           {NavLinks.map((link, index) => (
             <Link
